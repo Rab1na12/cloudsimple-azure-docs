@@ -1,13 +1,6 @@
----
-author: Barbara
-date: May 24, 2018
----
-
 The Properties page displays status and other information about the VM.
-
-![Azure Portal Overview page](images/azp-properties.png)
  
- This page contains the following information. Some of this informaton is also presented on the [Overview page](azureoverviewpage.md).
+ This page contains the following information. Some of this informaton is also presented on the Overview page.
 
 | Item | Description | 
 | ------------ | ------------- | 

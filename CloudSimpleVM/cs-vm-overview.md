@@ -1,8 +1,3 @@
----
-author: Barbara
-date: May 24, 2018
----
-
 The Overview page includes management actions, summary information, and performance charts for the selected VM.
 
 

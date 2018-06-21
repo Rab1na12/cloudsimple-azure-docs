@@ -1,11 +1,4 @@
----
-author: Barbara
-date: May 10, 2018
----
-
 Open the Size page to change the capacity of the VM. 
-
-![Azure Portal side menu](images/azuresize.png)
 
 Specify any of the following, and click **Save**.
 

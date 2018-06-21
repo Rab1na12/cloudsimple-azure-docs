@@ -1,8 +1,3 @@
----
-author: Barbara
-date: March 20, 2018
----
-
 Open the Disks page for a selected VM to manage disk assignments.
 
 ## Add a Disk
