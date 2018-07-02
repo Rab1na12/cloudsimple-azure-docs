@@ -1,4 +1,4 @@
-Open the Size page to change the capacity of the VM. 
+Open this page to change the capacity of the VM. 
 
 Specify any of the following, and click **Save**.
 
