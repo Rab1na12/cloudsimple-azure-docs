@@ -1,6 +1,5 @@
-The Properties page displays status and other information about the VM.
- 
- This page contains the following information. Some of this informaton is also presented on the Overview page.
+
+ This page displays status and other information about the VM. Some of this informaton is also presented on the Overview page.
 
 | Item | Description | 
 | ------------ | ------------- | 
