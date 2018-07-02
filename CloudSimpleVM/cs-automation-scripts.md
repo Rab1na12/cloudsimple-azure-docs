@@ -1,5 +1,5 @@
 You can automate the deployment of VM resources by using the Azure Resource Manager templates. 
-Open the **Automation Script** page to define resources, configure input parameters, and deploy with scripts or code. 
+Open this page to define resources, configure input parameters, and deploy with scripts or code. 
 
 Perform any of the following actions.
 
