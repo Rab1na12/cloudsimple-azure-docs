@@ -1,4 +1,4 @@
-The Overview page includes management actions, summary information, and performance charts for the selected VM.
+This page has controls for management actions, summary information, and performance charts for the selected VM.
 
 
 ## Actions
