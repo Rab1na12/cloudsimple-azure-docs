@@ -1,3 +1,1 @@
-The Activity Log page in the Azure Portal has not been modified by CloudSimple. See the Microsoft Azure documentation:
-
-[Activity Log](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-activity-logs)<br>
+The Activity Log page in the Azure Portal has not been modified by CloudSimple. See [What is role-based access control](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview) for information on this page.
