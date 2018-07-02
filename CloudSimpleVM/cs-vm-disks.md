@@ -1,4 +1,4 @@
-Open the Disks page for a selected VM to manage disk assignments.
+Open this page to manage disk assignments for a selected VM.
 
 ## Add a Disk
 1. On the Disks page, click **Add disk**.
