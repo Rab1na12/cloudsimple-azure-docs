@@ -1,4 +1,4 @@
-Open the Network Interfaces page for a [selected VM](azuremanagevms.md) to view, add, or delete network interfaces (NICs).
+Open this page to manage network interfaces (NICs) for the selected VM.
 
 ## Add a Network Interface
 1. On the Network Interfaces page, click **Add network interface**.
