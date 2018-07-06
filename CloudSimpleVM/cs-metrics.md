@@ -1,0 +1,1 @@
+The Metrics page in the Azure Portal has not been modified by CloudSimple. See [Metrics](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-metric-charts) for information on this page.
