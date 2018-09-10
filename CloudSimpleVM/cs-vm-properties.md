@@ -1,4 +1,6 @@
 
+ #CloudSimple Virtual Machine Properties
+
  This page displays status and other information about the VM. Some of this informaton is also presented on the Overview page.
 
 | Item | Description | 
@@ -16,3 +18,6 @@
 | IP Addresses | IP addresses reported for the VM guest by VMware Tools.  | 
 | vSphere Networks | Networks assigned to the NICs in vSphere. | 
 | VMware Tools | VMware Tools version, if installed.  | 
+
+## Contact CloudSimple Support
+If you face any issues, you can create a support request.  To access the CloudSimple support portal click on [Open CloudSimple support portal](https://support.cloudsimple.com) link (This will open the CloudSimple support portal in a new browser tab). 

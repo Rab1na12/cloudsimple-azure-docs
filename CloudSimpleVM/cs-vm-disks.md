@@ -1,3 +1,5 @@
+# CloudSimple Virtual Machine Disks
+
 Open this page to manage disk assignments for the selected VM.
 
 1. Click **Add disk**.
@@ -15,3 +17,6 @@ Open this page to manage disk assignments for the selected VM.
 
 ## Delete a Disk
 On the Disks page, select the disk and click **Delete**.
+
+## Contact CloudSimple Support
+If you face any issues, you can create a support request.  To access the CloudSimple support portal click on [Open CloudSimple support portal](https://support.cloudsimple.com) link (This will open the CloudSimple support portal in a new browser tab). 

@@ -1,4 +1,4 @@
-# CloudSimple VM Overview
+# CloudSimple Virtual Machines Overview
 
 This page has controls for management actions, summary information, and performance charts for the selected VM.
 
@@ -32,3 +32,7 @@ The following charts are displayed.
 | Network | Traffic in and out of the network (MB) over the selected interval.  | 
 | Disk Bytes | Total data read from disk and written to disk (MB) over the selected interval.  | 
 | Disk Operations | Average rate of disk operations (operations/second) over the selected interval. | 
+
+## Contact CloudSimple Support
+If you face any issues, you can create a support request.  To access the CloudSimple support portal click on [Open CloudSimple support portal](https://support.cloudsimple.com) link (This will open the CloudSimple support portal in a new browser tab). 
+
