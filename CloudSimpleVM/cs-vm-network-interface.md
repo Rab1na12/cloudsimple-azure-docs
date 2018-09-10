@@ -7,12 +7,12 @@ Open this page to manage network interfaces (NICs) for the selected VM.
     
 2. Configure each of the following settings by entering or selected an inline option.
 
-| Control | Description | 
-| ------------ | ------------- | 
-| Name | Enter a name to identify the interface.  | 
-| Network | Select from the list of configured networks in your Private Cloud vSphere.  | 
-| Adapter | Select a vSphere adaptor from the list of available types configured for the VM. |
-| Power on at Boot | Choose whether to enable the NIC hardware when the VM is booted. The default is **Enable**. |
+    | Control | Description | 
+    | ------------ | ------------- | 
+    | Name | Enter a name to identify the interface.  | 
+    | Network | Select from the list of configured networks in your Private Cloud vSphere.  | 
+    | Adapter | Select a vSphere adaptor from the list of available types configured for the VM. |
+    | Power on at Boot | Choose whether to enable the NIC hardware when the VM is booted. The default is **Enable**. |
 
 3. Click **Save**.
 
