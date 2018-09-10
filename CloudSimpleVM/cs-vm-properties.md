@@ -1,5 +1,5 @@
 
- #CloudSimple Virtual Machine Properties
+ # CloudSimple Virtual Machine Properties
 
  This page displays status and other information about the VM. Some of this informaton is also presented on the Overview page.
 
