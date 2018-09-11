@@ -16,7 +16,7 @@ You can manage network interfaces (NICs) for the selected VM running on CloudSim
 * Click **Save**.
 
 ## Delete a Network Interface
-On the Network Interfaces page, select the interface and click = **Delete**.
+On the Network Interfaces page, select the interface and click **Delete**.
 
 [Learn more](https://docs.cloudsimple.com/azureportal/azurenetworkinterfaces/)
 

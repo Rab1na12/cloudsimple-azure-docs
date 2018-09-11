@@ -6,7 +6,8 @@ This page has controls for management actions, summary information, and performa
 ## Actions
 The following actions are available at the top of the page.
 
-| **Control** | **Description** | 
+| **Control** | **Description** |
+| ------------ | ------------- |  
 | Connect | Connect to the specified VM.  | 
 | Start | Start the specified VM.  | 
 | Restart | Shutdown and then power up the specified VM.  | 
@@ -26,6 +27,7 @@ The charts in the lower area present performance data for the selected interval 
 The following charts are displayed. 
 
 | **Item** | **Description** |
+| ------------ | ------------- | 
 | CPU (average) | Average CPU utilization in percentage over the selected interval.   | 
 | Network | Traffic in and out of the network (MB) over the selected interval.  | 
 | Disk Bytes | Total data read from disk and written to disk (MB) over the selected interval.  | 
