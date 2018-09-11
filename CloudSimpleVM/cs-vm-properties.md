@@ -1,9 +1,9 @@
 
  # CloudSimple Virtual Machine Properties
 
- This page displays status and other information about the VM. Some of this informaton is also presented on the Overview page.
+ You can check the status and other information about the VM running on CloudSimple Private Cloud. Some of this information is also presented on the Overview page.
 
-| Item | Description | 
+| **Item** | **Description** | 
 | ------------ | ------------- | 
 | Resource Group | Deployment group to which this VM belongs.  | 
 | Status | Operational status of the VM.  | 
@@ -14,10 +14,12 @@
 | Computer Name | Name of the CloudSimple VM.  | 
 | Operating System | Operating system for the VM as reported in vSphere. For a list of supported operating systems, see [Supported host operating systems for VMware vCenter Server installation](https://kb.vmware.com/s/article/2091273). | 
 | Size |  Compute and memory resources assigned to the VM in vSphere.  | 
-| Public IP address/DNS name | Public IP address that is mapped to the local IP address of the VM in the CloudSImple Public IP service. See [Public IPs](../csportal/publicips.md).  | 
+| Public IP address/DNS name | Public IP address that is mapped to the local IP address of the VM in the CloudSimple Public IP service. See [Public IPs](https://docs.cloudsimple.com/csportal/publicips/).  | 
 | IP Addresses | IP addresses reported for the VM guest by VMware Tools.  | 
 | vSphere Networks | Networks assigned to the NICs in vSphere. | 
-| VMware Tools | VMware Tools version, if installed.  | 
+| VMware Tools | VMware Tools version, if installed.  |
+
+[Learn more](https://docs.cloudsimple.com/azureportal/azureproperties/)
 
 ## Contact CloudSimple Support
 If you face any issues, you can create a support request.  To access the CloudSimple support portal click on [Open CloudSimple support portal](https://support.cloudsimple.com) link (This will open the CloudSimple support portal in a new browser tab). 

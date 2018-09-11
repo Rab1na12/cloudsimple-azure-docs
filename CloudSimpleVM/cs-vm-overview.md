@@ -1,13 +1,12 @@
 # CloudSimple Virtual Machines Overview
 
-This page has controls for management actions, summary information, and performance charts for the selected VM.
+This page has controls for management actions, summary information, and performance charts for the selected VM running on CloudSimple Private Cloud.
 
 
 ## Actions
 The following actions are available at the top of the page.
 
-| Control | Description | 
-| ------------ | ------------- | 
+| **Control** | **Description** | 
 | Connect | Connect to the specified VM.  | 
 | Start | Start the specified VM.  | 
 | Restart | Shutdown and then power up the specified VM.  | 
@@ -26,12 +25,13 @@ The charts in the lower area present performance data for the selected interval 
  
 The following charts are displayed. 
 
-| Item | Description | 
-| ------------ | ------------- | 
+| **Item** | **Description** |
 | CPU (average) | Average CPU utilization in percentage over the selected interval.   | 
 | Network | Traffic in and out of the network (MB) over the selected interval.  | 
 | Disk Bytes | Total data read from disk and written to disk (MB) over the selected interval.  | 
-| Disk Operations | Average rate of disk operations (operations/second) over the selected interval. | 
+| Disk Operations | Average rate of disk operations (operations/second) over the selected interval. |
+
+[Learn more](https://docs.cloudsimple.com/azureportal/azureoverviewpage/)
 
 ## Contact CloudSimple Support
 If you face any issues, you can create a support request.  To access the CloudSimple support portal click on [Open CloudSimple support portal](https://support.cloudsimple.com) link (This will open the CloudSimple support portal in a new browser tab). 
