@@ -10,7 +10,7 @@ You can manage network interfaces (NICs) for the selected VM running on CloudSim
 | ------------ | ------------- |  
 | Name | Enter a name to identify the interface.  | 
 | Network | Select from the list of configured networks in your Private Cloud vSphere.  | 
-| Adapter | Select a vSphere adaptor from the list of available types configured for the VM. |
+| Adapter | Select a vSphere adaptor from the list of available types configured for the VM. For more information, see the VMware knowledge base article [Choosing a network adapter for your virtual machine](https://kb.vmware.com/s/article/1001805). |
 | Power on at Boot | Choose whether to enable the NIC hardware when the VM is booted. The default is **Enable**. |
 
 * Click **Save**.
@@ -18,7 +18,10 @@ You can manage network interfaces (NICs) for the selected VM running on CloudSim
 ## Delete a Network Interface
 On the Network Interfaces page, select the interface and click **Delete**.
 
-[Learn more](https://docs.cloudsimple.com/azureportal/azurenetworkinterfaces/)
+## CloudSimple Documentation
+
+Click [here](https://docs.cloudsimple.com) for CloudSimple documentation
 
 ## Contact CloudSimple Support
-If you face any issues, you can create a support request.  To access the CloudSimple support portal click on [Open CloudSimple support portal](https://support.cloudsimple.com) link (This will open the CloudSimple support portal in a new browser tab). 
+
+You can create a support request by clicking here: [CloudSimple Support Portal]((https://support.cloudsimple.com)) (This will open the CloudSimple support portal in a new browser tab).

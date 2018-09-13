@@ -10,7 +10,10 @@ Specify any of the following, and click **Save**.
 | Hardware virtualization | Select the checkbox to expose the hardware virtualization to the guest OS. See the VMware article [Expose VMware Hardware Assisted Virtualization](https://docs.vmware.com/en/VMware-vSphere/6.5/com.vmware.vsphere.vm_admin.doc/GUID-2A98801C-68E8-47AF-99ED-00C63E4857F6.html). | 
 | Memory Size | Select the amount of memory to allocate to the VM.  |
 
-[Learn More](https://docs.cloudsimple.com/azureportal/azuresize/)
+## CloudSimple Documentation
+
+Click [here](https://docs.cloudsimple.com) for CloudSimple documentation
 
 ## Contact CloudSimple Support
-If you face any issues, you can create a support request.  To access the CloudSimple support portal click on [Open CloudSimple support portal](https://support.cloudsimple.com) link (This will open the CloudSimple support portal in a new browser tab). 
+
+You can create a support request by clicking here: [CloudSimple Support Portal]((https://support.cloudsimple.com)) (This will open the CloudSimple support portal in a new browser tab).
