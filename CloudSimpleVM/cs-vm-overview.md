@@ -28,8 +28,8 @@ The following charts are displayed.
 | **Item** | **Description** |
 | ------------ | ------------- | 
 | CPU (average) | Average CPU utilization in percentage over the selected interval.   | 
-| Network | Network Traffic in and out of the network, in bytes, over the selected interval.  | 
-| Disk Bytes | Disk Bytes Total data read from disk and written to disk, in bytes, over the selected interval.  | 
+| Network | Traffic in and out of the network, in bytes, over the selected interval.  | 
+| Disk Bytes | Total data read from disk and written to disk, in bytes, over the selected interval.  | 
 | Disk Operations | Average rate of disk operations (operations/second) over the selected interval. |
 
 ## CloudSimple Documentation
