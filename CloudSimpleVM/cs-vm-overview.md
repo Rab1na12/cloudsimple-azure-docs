@@ -12,7 +12,7 @@ The following actions are available at the top of the page.
 | Start | Start the specified VM.  | 
 | Restart | Shutdown and then power up the specified VM.  | 
 | Stop | Shut down the specific VM.  A guest shutdown operation is initiated if possible.  | 
-| Move | Move to the specified VM to another location.  | 
+| Move | Move the specified VM to another location.  | 
 | Delete | Remove the specified VM.  | 
 | Refresh | Refresh the data in the display.  | 
 
