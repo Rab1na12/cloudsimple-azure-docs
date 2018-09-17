@@ -38,4 +38,4 @@ Click [here](https://docs.cloudsimple.com) for CloudSimple documentation
 
 ## Contact CloudSimple Support
 
-You can create a support request by clicking here: [CloudSimple Support Portal]((https://support.cloudsimple.com)) (This will open the CloudSimple support portal in a new browser tab).
+You can create a support request by clicking here: [CloudSimple Support Portal](https://support.cloudsimple.com) (This will open the CloudSimple support portal in a new browser tab).
