@@ -20,7 +20,7 @@ On the Network Interfaces page, select the interface and click **Delete**.
 
 ## CloudSimple Documentation
 
-Click [here](https://docs.cloudsimple.com) for CloudSimple documentation
+You can access CloudSimple Documentation by clicking here: [CloudSimple Documentation Site](https://docs.cloudsimple.com) (This will open the link in a new browser tab).
 
 ## Contact CloudSimple Support
 
