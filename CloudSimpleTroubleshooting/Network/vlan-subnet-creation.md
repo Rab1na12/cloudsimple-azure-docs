@@ -9,4 +9,4 @@
 
 ## **Recommended documents**
 
-[VLANs/Subnets](https://docs.cloudsimple.com/csportal/network/vlansubnet/)<br>
+[VLANs/Subnets](https://docs.cloudsimple.com/csportal/network/vlansubnet/)

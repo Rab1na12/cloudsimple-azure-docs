@@ -9,4 +9,4 @@
 
 [Use VLAN Information to Set Up a Distributed Port Group in vSphere](https://docs.cloudsimple.com/csportal/network/vlansubnet/#use-vlan-information-to-set-up-a-distributed-port-group-in-vsphere)<br>
 [Firewall Rules](https://docs.cloudsimple.com/csportal/network/firewall/#firewall-rules)<br>
-[VLANs/Subnets](https://docs.cloudsimple.com/csportal/network/vlansubnet/)<br>
+[VLANs/Subnets](https://docs.cloudsimple.com/csportal/network/vlansubnet/)
