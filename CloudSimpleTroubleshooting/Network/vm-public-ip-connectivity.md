@@ -1,4 +1,4 @@
-# Troubleshooting network connectivity between VMs 
+# Troubleshooting public ip address network connectivity 
 
 ## **Recommended steps**
 
