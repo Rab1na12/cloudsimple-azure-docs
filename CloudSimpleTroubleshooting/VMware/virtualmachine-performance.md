@@ -12,5 +12,5 @@
 8. Ensure that there are no virtual machine snapshot operation during peak I/O. <br>
 9. Check the guest OS file system 4KB alignment. <br>
 10. Ensure that Memory Trimming feature is disabled on I/O intensive virtual machines that are not memory intensive. <br>
-11. Check for active On-demand Virus Scan activities in the virtual machine. <br>
+11. Check for active On-demand virus scan activities in the virtual machine. <br>
 12. If using SQL Server, check for optimization tips. <br>
