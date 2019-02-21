@@ -1,4 +1,4 @@
-# <-- This is the title of the article - This is not presented in the portal --> 
+# Troubleshooting internet connectivity from a VM 
 
 ## **Recommended steps**
 
