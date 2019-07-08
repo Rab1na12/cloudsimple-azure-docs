@@ -1,8 +1,8 @@
-# CloudSimple Virtual Machine Disks
+### CloudSimple Virtual Machine Disks
 
 You can manage disk assignments for the selected VM running on CloudSimple Private Cloud.
 
-## Adding a Disk
+#### Adding a Disk
 
 * Click **Add disk**.
 
@@ -17,13 +17,13 @@ You can manage disk assignments for the selected VM running on CloudSimple Priva
 
 * Click **Save**.
 
-## Delete a Disk
+#### Delete a Disk
 On the Disks page, select the disk and click **Delete**.
 
-## CloudSimple Documentation
+#### CloudSimple Documentation
 
-You can access CloudSimple Documentation by clicking here: [CloudSimple Documentation Site](https://docs.cloudsimple.com) (This will open the link in a new browser tab).
+You can access Azure VMware Solution by CloudSimple Documentation by clicking here: [CloudSimple Documentation Site](https://docs.microsoft.com/azure/vmware-cloudsimple/) (This will open the link in a new browser tab).
 
-## Contact CloudSimple Support
+#### Contact CloudSimple Support
 
-You can create a support request by clicking here: [CloudSimple Support Portal](https://support.cloudsimple.com) (This will open the link in a new browser tab).
+You can create a support request by clicking here: [New support request](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) (This will open the link in a new browser tab).
