@@ -1,9 +1,9 @@
-# CloudSimple Virtual Machines Overview
+### CloudSimple Virtual Machines Overview
 
 This page has controls for management actions, summary information, and performance charts for the selected VM running on CloudSimple Private Cloud.
 
 
-## Actions
+#### Actions
 The following actions are available at the top of the page.
 
 | **Control** | **Description** |
@@ -16,11 +16,11 @@ The following actions are available at the top of the page.
 | Delete | Remove the specified VM.  | 
 | Refresh | Refresh the data in the display.  | 
 
-## Essential Properties
+#### Essential Properties
 
 The Essentials area of the Overview page presents summary information, including the current status of the VM. For a description of VM properties, including most of this information, see [Properties](https://docs.cloudsimple.com/azureportal/azureproperties/).
 
-## Performance Charts
+#### Performance Charts
 The charts in the lower area present performance data for the selected interval (last hour to last 30 days; default is last hour). Within each chart, you can display the numeric values for any time within the interval by moving your cursor back and forth over the chart.
  
 The following charts are displayed. 
@@ -32,10 +32,10 @@ The following charts are displayed.
 | Disk Bytes | Total data read from disk and written to disk, in bytes, over the selected interval.  | 
 | Disk Operations | Average rate of disk operations (operations/second) over the selected interval. |
 
-## CloudSimple Documentation
+#### CloudSimple Documentation
 
-You can access CloudSimple Documentation by clicking here: [CloudSimple Documentation Site](https://docs.cloudsimple.com) (This will open the link in a new browser tab).
+You can access Azure VMware Solution by CloudSimple Documentation by clicking here: [CloudSimple Documentation Site](https://docs.microsoft.com/azure/vmware-cloudsimple/) (This will open the link in a new browser tab).
 
-## Contact CloudSimple Support
+#### Contact CloudSimple Support
 
-You can create a support request by clicking here: [CloudSimple Support Portal](https://support.cloudsimple.com) (This will open the link in a new browser tab).
+You can create a support request by clicking here: [New support request](https://portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) (This will open the link in a new browser tab).
