@@ -1,3 +1,15 @@
+--- 
+title: Access Azure VMware Solution by CloudSimple - Portal 
+description: Describes how to access VMware Solution by CloudSimple portal from Azure portal
+author: sharaths-cs 
+ms.author: b-shsury 
+ms.date: 06/04/2019 
+ms.topic: article 
+ms.service: azure-vmware-cloudsimple 
+ms.reviewer: cynthn 
+manager: dikamath 
+---
+
 # Troubleshooting Private Cloud creation 
 
 ## **Recommended steps**
