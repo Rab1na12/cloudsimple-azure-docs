@@ -25,4 +25,4 @@ articleId="50595BF8-2B72-4910-AE39-65F3988E387C"
 
 
 [Delete a Private Cloud](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/delete-private-cloud)<br>
-[View list of Private Clouds](https://docs.cloudsimple.com/csportal/resources/privatecloudmanage/#view-the-list-of-private-clouds)
+[View list of Private Clouds](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/manage-private-cloud)
