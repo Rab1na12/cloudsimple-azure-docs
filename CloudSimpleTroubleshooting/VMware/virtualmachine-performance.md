@@ -1,6 +1,7 @@
 --- 
 title: Access Azure VMware Solution by CloudSimple - Portal 
 description: Describes how to access VMware Solution by CloudSimple portal from Azure portal
+infoBubbleText="Problems related to VMware VM performance on my Private Cloud"
 author: sharaths-cs 
 ms.author: b-shsury 
 ms.date: 09/06/2019 
@@ -10,7 +11,7 @@ ms.reviewer: cynthn
 manager: dikamath
 displayOrder=""
 selfHelpType="generic"
-supportTopicIds=""
+supportTopicIds="32637631"
 resourceTags=""
 productPesIds="16733"
 cloudEnvironments="public"

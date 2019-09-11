@@ -1,6 +1,7 @@
 --- 
 title: Access Azure VMware Solution by CloudSimple - Portal 
 description: Describes how to access VMware Solution by CloudSimple portal from Azure portal
+infoBubbleText="Problems related to internet access from VMs running in the Private Cloud"
 author: sharaths-cs 
 ms.author: b-shsury 
 ms.date: 09/06/2019 
@@ -10,7 +11,7 @@ ms.reviewer: cynthn
 manager: dikamath
 displayOrder=""
 selfHelpType="generic"
-supportTopicIds=""
+supportTopicIds="32637628"
 resourceTags=""
 productPesIds="16733"
 cloudEnvironments="public"
@@ -28,6 +29,6 @@ articleId="50595BF8-2B72-4910-AE39-65F3988E387C"
 
 ## **Recommended documents**
 
-[Use VLAN Information to Set Up a Distributed Port Group in vSphere](https://docs.cloudsimple.com/csportal/network/vlansubnet/#use-vlan-information-to-set-up-a-distributed-port-group-in-vsphere)<br>
-[Firewall Rules](https://docs.cloudsimple.com/csportal/network/firewall/#firewall-rules)<br>
-[VLANs/Subnets](https://docs.cloudsimple.com/csportal/network/vlansubnet/)
+[Use VLAN Information to Set Up a Distributed Port Group in vSphere](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/create-vlan-subnet#use-vlan-information-to-set-up-a-distributed-port-group-in-vsphere)<br>
+[Firewall Rules](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/firewall#firewall-rules)<br>
+[VLANs/Subnets](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/create-vlan-subnet/)
