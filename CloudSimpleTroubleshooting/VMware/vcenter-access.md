@@ -1,6 +1,7 @@
 --- 
 title: Access Azure VMware Solution by CloudSimple - Portal 
 description: Describes how to access VMware Solution by CloudSimple portal from Azure portal
+infoBubbleText="Problems related to escalation, de-escalation, extension of escalated privileges, insufficient privileges on vCenter of my Private Cloud"
 author: sharaths-cs 
 ms.author: b-shsury 
 ms.date: 09/06/2019 
@@ -10,7 +11,7 @@ ms.reviewer: cynthn
 manager: dikamath
 displayOrder=""
 selfHelpType="generic"
-supportTopicIds=""
+supportTopicIds="32637561"
 resourceTags=""
 productPesIds="16733"
 cloudEnvironments="public"
@@ -32,5 +33,5 @@ articleId="50595BF8-2B72-4910-AE39-65F3988E387C"
 
 ## **Recommended documents**
 
-[Site-to-Site VPN](https://docs.cloudsimple.com/solutionguides/vpnsetup/#site-to-site-vpn)<br>
-[Login to vCenter](https://docs.cloudsimple.com/gettingstarted/gettingstartedguide/#7-log-in-to-vcenter)
+[Site-to-Site VPN](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/cloudsimple-vpn-gateways#site-to-site-vpn-gateway)<br>
+[Login to vCenter](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/vmware-components#vcenter-server-appliance)

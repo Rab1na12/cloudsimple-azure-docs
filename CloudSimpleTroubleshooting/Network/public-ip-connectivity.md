@@ -1,6 +1,7 @@
 --- 
 title: Access Azure VMware Solution by CloudSimple - Portal 
 description: Describes how to access VMware Solution by CloudSimple portal from Azure portal
+infoBubbleText="Problems related to creation and association of a Public IP address to a private IP address"
 author: sharaths-cs 
 ms.author: b-shsury 
 ms.date: 09/06/2019 
@@ -10,7 +11,7 @@ ms.reviewer: cynthn
 manager: dikamath
 displayOrder=""
 selfHelpType="generic"
-supportTopicIds=""
+supportTopicIds="32637611"
 resourceTags=""
 productPesIds="16733"
 cloudEnvironments="public"
@@ -27,5 +28,5 @@ articleId="50595BF8-2B72-4910-AE39-65F3988E387C"
 
 ## **Recommended documents**
 
-[Public IP address](https://docs.cloudsimple.com/csportal/network/publicips/)<br>
-[Firewall Rules](https://docs.cloudsimple.com/csportal/network/firewall/#firewall-rules)<br>
+[Public IP address](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/public-ips)<br>
+[Firewall Rules](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/firewall#firewall-rules)<br>

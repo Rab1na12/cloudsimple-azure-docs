@@ -10,7 +10,7 @@ ms.reviewer: cynthn
 manager: dikamath
 displayOrder=""
 selfHelpType="generic"
-supportTopicIds=""
+supportTopicIds="32637627"
 resourceTags=""
 productPesIds="16733"
 cloudEnvironments="public"
@@ -28,4 +28,4 @@ articleId="50595BF8-2B72-4910-AE39-65F3988E387C"
 
 ## **Recommended documents**
 
-[VLANs/Subnets](https://docs.cloudsimple.com/csportal/network/vlansubnet/)
+[VLANs/Subnets](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/create-vlan-subnet)

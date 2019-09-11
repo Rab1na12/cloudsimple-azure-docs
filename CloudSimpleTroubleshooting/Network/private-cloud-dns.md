@@ -1,6 +1,7 @@
 --- 
 title: Access Azure VMware Solution by CloudSimple - Portal 
 description: Describes how to access VMware Solution by CloudSimple portal from Azure portal
+infoBubbleText="Problems related to name resolution of Private Cloud management components like vCenter, ESXi hosts etc"
 author: sharaths-cs 
 ms.author: b-shsury 
 ms.date: 09/06/2019 
@@ -10,7 +11,7 @@ ms.reviewer: cynthn
 manager: dikamath
 displayOrder=""
 selfHelpType="generic"
-supportTopicIds=""
+supportTopicIds="32637576"
 resourceTags=""
 productPesIds="16733"
 cloudEnvironments="public"
@@ -22,5 +23,5 @@ articleId="50595BF8-2B72-4910-AE39-65F3988E387C"
 
 ## **Recommended documents**
 
-[On-premises DNS setup](https://docs.cloudsimple.com/solutionguides/onpremdnssetup/) <br>
-[vSphere Management Network](https://docs.cloudsimple.com/csportal/resources/privatecloudmanage/#vsphere-management-network)
+[On-premises DNS setup](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/on-premises-dns-setup/) <br>
+[vSphere Management Network](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/manage-private-cloud#vsphere-management-network)
