@@ -22,5 +22,5 @@ articleId="50595BF8-2B72-4910-AE39-65F3988E387C"
 
 ## **Recommended documents**
 
-[On-premises Network Connection using ExpressRoute](https://docs.cloudsimple.com/solutionguides/er-connection/)<br>
-[Azure Virtual Network Connection using ExpressRoute](https://docs.cloudsimple.com/solutionguides/azure-er-connection/)<br>
+[On-premises Network Connection using ExpressRoute](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/on-premises-connection/)<br>
+[Azure Virtual Network Connection using ExpressRoute](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/azure-expressroute-connection/)<br>
