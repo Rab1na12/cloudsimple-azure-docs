@@ -8,4 +8,3 @@
 ## **Recommended documents**
 
 [Create a Private Cloud](https://docs.cloudsimple.com/csportal/resources/privatecloudcreate/)<br>
-test
